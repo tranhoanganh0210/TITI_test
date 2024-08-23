@@ -1,7 +1,7 @@
 {
-    "name": "Titi",
-    "symbol": "ti",
-    "uri": "/Users/dev/Study/sol/token-metadata.json",
+    "name": "TITI Token",
+    "symbol": "TT",
+    "uri": "https://raw.githubusercontent.com/tranhoanganh0210/TITI_test/main/metadata1.json",
     "seller_fee_basis_points": 500,
     "creators": null
 }
